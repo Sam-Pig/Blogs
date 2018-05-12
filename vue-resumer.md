@@ -215,7 +215,7 @@ Vue.component('Hello',Hello)
 
 
 
-## 实现布局
+## 实现基本布局
 
 * **总体思路：**  
 布局无非就是topbar、editor、preview三个部分，可以做成三个单文件组件，放进components文件夹里，再在App.vue里`import`并设置style；
@@ -226,7 +226,11 @@ Vue.component('Hello',Hello)
 
 * 但要确保有sass-loader和node-sass，如果没有，会报错，可以在终端输入`npm i -g sass-loader`和`npm i -D node-sass`；
 
-* 
+* 终端输入`npm i element-ui -S`安装element-ui，element-UI就是新时代的bootstrap；
+
+* 按照element的[快速上手](http://element-cn.eleme.io/#/zh-CN/component/quickstart)教程来引入完整的Element；
+
+
 
 
 
