@@ -213,3 +213,11 @@ Vue.component('Hello',Hello)
 3. App.vue负责`import`各component，整合APP的整体template和设置style；
 4. 各component放入components文件里，每一个都是一个单文件组件，可以被App.vue和main.js`import`。
 
+
+
+## 实现布局
+
+* **总体思路：**  
+布局无非就是topbar、editor、preview三个部分，可以做成三个单文件组件，放进components文件夹里，再在App.vue里引入和`import`并设置style；
+
+* 
