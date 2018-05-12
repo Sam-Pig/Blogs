@@ -1,6 +1,6 @@
-## 日志——Vue.js开发在线简历生成器
+# 日志——Vue.js开发在线简历生成器
 
-### 准备工作
+## 准备工作
 
 * 在github上新建一个仓库vue-resumer-1；
 
@@ -35,10 +35,8 @@
 * push到github上，添加描述`git commit -am "vue init webpack . && npm install"`；
 
 
-***
 
-
-### 初识Vue
+## 初识Vue
 
 * 输入`npm run dev`，创建了[本地服务器](http://localhost:8080/)，可以访问页面；
 
