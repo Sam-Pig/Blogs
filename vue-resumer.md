@@ -220,7 +220,7 @@ Vue.component('Hello',Hello)
 * **总体思路：**  
 布局无非就是topbar、editor、preview三个部分，可以做成三个单文件组件，放进components文件夹里，再在App.vue里`import`并设置style；
 
-*终端输入`npm i -S normalize.css`引入normalize.css，在main.js里`import normalize.css`；
+* 终端输入`npm i -S normalize.css`引入normalize.css，在main.js里`import normalize.css`；
 
 * 在assets文件夹里新建一个reset.scss文件，重置CSS，在main.js里`import './assets/reset.scss'`，App.vue的style部分可以设置成`<style lang="scss"><style/>`；
 
