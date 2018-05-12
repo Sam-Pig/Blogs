@@ -226,9 +226,9 @@ Vue.component('Hello',Hello)
 
 * 但要确保有sass-loader和node-sass，如果没有，会报错，可以在终端输入`npm i -g sass-loader`和`npm i -D node-sass`；
 
-* 终端输入`npm i element-ui -S`安装element-ui，element-UI就是新时代的bootstrap；
+* 终端输入`npm i element-ui -S`安装Element-UI，**Element-UI就是新时代的bootstrap，核心的使用方法就是复制粘贴**；
 
-* 按照element的[快速上手](http://element-cn.eleme.io/#/zh-CN/component/quickstart)教程来引入完整的Element；
+* 按照Element的[快速上手](http://element-cn.eleme.io/#/zh-CN/component/quickstart)教程来引入完整的Element；
 
 
 
