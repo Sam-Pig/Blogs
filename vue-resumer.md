@@ -230,6 +230,10 @@ Vue.component('Hello',Hello)
 
 * 按照Element的[快速上手](http://element-cn.eleme.io/#/zh-CN/component/quickstart)教程来引入完整的Element；
 
+* 接下来就是想用什么组件，就直接在官网上复制粘贴代码，奉行拿来主义；
+
+* 使用Iconfont的[symbol引用](http://www.iconfont.cn/help/detail?spm=a313x.7781069.1998910419.d8cf4382a&helptype=code)；
+
 
 
 
