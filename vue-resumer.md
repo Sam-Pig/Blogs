@@ -234,9 +234,21 @@ Vue.component('Hello',Hello)
 
 * 使用Iconfont的[symbol引用](http://www.iconfont.cn/help/detail?spm=a313x.7781069.1998910419.d8cf4382a&helptype=code)；
 
+* SVG默认是一个inline-block元素；
 
+* Vue的伟大之处，就在于你永远不用操作DOM了，所有的行为都可以通过data数据的改变来映射出来；
 
+* > Vue的数据只能从外层往里传（props:['']），不能从内层往外传？
 
+* dist文件夹之所以不被上传，是因为gitignore里有
+```
+.DS_Store
+node_modules/
+/dist/
+```
+把`/dist/`删掉就行了；
+
+* 解决404问题的终极办法：加目录或者减目录；
 
 
 
