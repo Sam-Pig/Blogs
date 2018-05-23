@@ -1,4 +1,4 @@
-## CSS的学习思路
+# CSS的学习思路
 ### 一、CSS 为什么难学（不正交 + 属性多 + 性价比低）
 	> 一句话就是：“不正交”！
 	1. position: fixed V.S. transform
