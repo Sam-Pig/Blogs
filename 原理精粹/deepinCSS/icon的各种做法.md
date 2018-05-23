@@ -1,9 +1,9 @@
 # icon 的各种做法
-### img 法
-### background 法
-### background 合一法(精灵图)
-### font 法（CSS引入）
-### [SVG 法（JS引入，今后的主流）](http://www.iconfont.cn/help/detail?spm=a313x.7781069.1998910419.d8cf4382a&helptype=code)
+### 一、img 法
+### 二、background 法
+### 三、background 合一法(精灵图)
+### 四、font 法（CSS引入）
+### [五、SVG 法（JS引入，今后的主流）](http://www.iconfont.cn/help/detail?spm=a313x.7781069.1998910419.d8cf4382a&helptype=code)
 #### symbol引用
 - 这是一种全新的使用方式，应该说这才是未来的主流，也是平台目前推荐的用法。相关介绍可以参考这篇文章 这种用法其实是做了一个svg的集合，与上面两种相比具有如下特点：
     1. 支持多色图标了，不再受单色限制。
@@ -31,4 +31,4 @@
         <use xlink:href="#icon-xxx"></use>
     </svg>
     ```
-### [新手慎用：「CSS 就是干」法（自虐苦修CSS法）](http://cssicon.space/#/icon/rain)
+### [六、新手慎用：「CSS 就是干」法（自虐苦修CSS法）](http://cssicon.space/#/icon/rain)
