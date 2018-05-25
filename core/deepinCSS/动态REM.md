@@ -1,6 +1,6 @@
 # 动态 REM
 
-### 手机专用的自适应方案
+### 手机（iPad也不行）专用的自适应方案
 1. 什么是 REM
 
 2. REM 和 EM 的区别是什么
@@ -12,7 +12,6 @@
 
 4. 使用 JS 动态调整 REM
 
-http://js.jirengu.com/xoqadocuqu/2/edit?html,css,output
 
 ```
  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
