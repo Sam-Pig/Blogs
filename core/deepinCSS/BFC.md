@@ -15,7 +15,7 @@
 
 >一个块格式化上下文由以下之一创建：
 
->根元素或其它包含它的元素
+> 根元素或其它包含它的元素
 - 浮动元素 (元素的 float 不是 none)
 - 绝对定位元素 (元素具有 position 为 absolute 或 fixed)
 - 内联块 (元素具有 display: inline-block)
