@@ -34,3 +34,36 @@
 
 
 ### BFC 到底是什么？
+先思考一个问题：
+
+请问：什么是色情？
+
+联邦最高法院大法官斯图尔特更有一句名言
+
+>我不知道什么是色情，不过，我看了之后，就能知道
+
+>I know it when I see it
+
+类似地：
+
+1. 我不知道什么是 BFC
+2. 但是你写出样式，我就知道这是不是 BFC
+
+BFC 就是这样的东西（堆叠上下文也是）
+
+1. 它没有定义
+2. 它只有特性/功能
+
+### 功能1：爸爸管儿子
+用 BFC 包住浮动元素。(这 TM 不是清除浮动，.clearfix 才是清除浮动）
+
+http://js.jirengu.com/rozaxufetu/1/edit?html,css,output
+
+### 功能2：兄弟之间划清界限
+用 float + div 做左右自适应布局
+
+http://js.jirengu.com/felikenuve/1/edit?html,css,output
+
+### 如何回答面试官
+1. 千万别解释什么是 BFC，一解释就错
+2. 用上面的例子回答什么是 BFC
