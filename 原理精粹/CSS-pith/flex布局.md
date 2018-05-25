@@ -12,5 +12,4 @@
 ### 五、flex item的6个属性
 ![flex-item的属性.png](https://i.loli.net/2018/05/23/5b0581d356ed8.png)
 ### 六、例子
-![使用flex布局.png](https://i.loli.net/2018/05/23/5b0581d3519cc.png)
 ### 七、[参考](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html)
